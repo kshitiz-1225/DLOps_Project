@@ -1,5 +1,5 @@
 # Audio Genre Classification
-DLOps Project
+DLOps Project (Advisor : Prof. Mayank Vatsa)
 
 - To classify audio files into their respective genres.
 - The application classifies the music files into 10 different classes which are Blues, Classical, Country, Disco, HipHop, Jazz, Metal, Pop, Reggae and Rock.
